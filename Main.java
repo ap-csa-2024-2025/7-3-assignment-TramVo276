@@ -26,7 +26,7 @@ public class Main
     System.out.println("funcs - ArrayList after appending the front element: " + arr);
   }
 
-  //public static printStatistics(final ArrayList<Integer> arr)
+  public static printStatistics(final ArrayList<Integer> arr)
   {
     
   }
